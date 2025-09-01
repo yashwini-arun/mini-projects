@@ -1,5 +1,0 @@
-John,85
-Alice,95
-Bob,0
-Eve,88
-Charlie,95
