@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2025-08-30",
+        "mood": "good",
+        "activity": "dance"
+    },
+    {
+        "date": "2025-08-30",
+        "mood": "good",
+        "activity": "sing"
+    },
+    {
+        "date": "2025-08-30",
+        "mood": "bad",
+        "activity": "sleep"
+    },
+    {
+        "date": "2025-08-30",
+        "mood": "ok",
+        "activity": "gym"
+    },
+    {
+        "date": "2025-08-30",
+        "mood": "ok",
+        "activity": "sleep"
+    }
+]
